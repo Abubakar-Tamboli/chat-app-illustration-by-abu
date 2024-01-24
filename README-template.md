@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Abubakar-Tamboli/OrderSummaryComponent)
-- Live Site URL: (https://abubakar-tamboli.github.io/OrderSummaryComponent/)
+- Solution URL: (https://github.com/Abubakar-Tamboli/chat-app-illustration-by-abu)
+- Live Site URL: (https://abubakar-tamboli.github.io/chat-app-illustration-by-abu/)
 
 ## My process
 
