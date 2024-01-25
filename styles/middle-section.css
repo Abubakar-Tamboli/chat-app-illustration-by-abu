@@ -256,10 +256,11 @@ button{
 
 .type{
     border: none;
-    padding: 0.3rem 0.8rem;
+    padding: 0.3rem 0.7rem;
     border-radius: 20px;
     display: inline-block;
     vertical-align: middle;
+    position: relative;
 }
 
 ::placeholder{
@@ -269,9 +270,9 @@ button{
 .send{
     background-color:transparent;
     border: none;
-    margin-left: -1.5rem;
     display: inline-block;
     vertical-align: middle;
+    align-items: center;
 }
 
 .send-btn{
@@ -282,6 +283,9 @@ button{
     height: 0.8rem;
     transform: rotate(180deg);
     margin-top: 0.2rem;
+    position: absolute;
+    top: 22.7rem;
+    right: 1.3rem;
 }
 
 
