@@ -254,6 +254,12 @@ button{
     margin-left: 2.9rem;
 }
 
+.nine{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .type{
     border: none;
     padding: 0.3rem 0.7rem;
